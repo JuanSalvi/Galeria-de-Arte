@@ -1,0 +1,24 @@
+img .col-gl-4{
+    padding: 0px !important;
+}
+
+.row>*{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+#Galeria img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    
+}
+
+.imagen-Ancha{
+
+    object-position: center;
+}
+.imagen-Larga{
+    
+    object-position: top;
+}
